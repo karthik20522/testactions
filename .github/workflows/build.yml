@@ -35,3 +35,10 @@ jobs:
           GOPROXY: "https://proxy.golang.org"
         name: Test
         run: "go test -v ."
+      - 
+        name: Containerize
+        run: "go test -v ."
+      - 
+        name: Deploy to K8
+        run: "go test -v ."
+        

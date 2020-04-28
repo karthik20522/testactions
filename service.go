@@ -14,4 +14,4 @@ func main() {
 
 /*func nothingTodo(){
 	//test function to check staticcode check
-}	*/
+}*/
